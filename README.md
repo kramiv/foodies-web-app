@@ -1,5 +1,5 @@
 # foodies-web-app
-Dev10 Capstone Project
+Dev10 Capstone Project: java, spring, react, MVC
 
 Requirements
 ====================================
