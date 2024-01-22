@@ -19,7 +19,11 @@ Running the application
 
 
 
+
+
+
 **Technical Explanation of app:**
+
 Purpose of this summary: review the technical details of Java Spring React bootcamp capstone to prepare to present it. Also, to review/learn Java, Spring, and React specifics.
 
 The stack for this project is centered around Java in the back-end. 
